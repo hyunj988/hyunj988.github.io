@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+  background-color: white;
   margin-top: 200px;
 
 }
@@ -39,41 +39,9 @@ h3{
 
 }
 
-#image1{
-  position: fixed;
-  width: 1200px;
-  margin-left: 100px;
-  margin-bottom: 100px;
-
-    
-}
 
 
-div{
-  color:pink;
-  margin-left: 200px;
-   font-family: arial;
-    font-weight: 40;
-    font-style: normal;
-    font-size: 30px;
-    line-height: 3;
-    letter-spacing: 0;
 
-}
-
-/* unvisited link */
-a:link {
-  color: black;
-}
-
-/* visited link */
-a:visited {
-  color: black;
-}
-
-a:hover {
-  color: #ab557c;
-}
 
 
 
